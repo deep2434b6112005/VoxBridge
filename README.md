@@ -237,6 +237,6 @@ The system is being developed and tested for real-time assistive communication u
 
 ## Team
 
-**VoxBridge – Team 7**
+**VoxBridge
 
 Developed as an assistive Edge-AI solution for communication accessibility.
